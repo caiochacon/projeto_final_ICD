@@ -1,4 +1,6 @@
-# projetofinal_ICD
+# Projeto Final da disciplina de Introdução à Ciência de Dados
+## Curso: Ciência de Dados e Inteligência Artificial - UFPB
+## Professor: Yuri Malheiros
 
 Título do projeto: [None]
 
