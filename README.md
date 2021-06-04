@@ -2,7 +2,7 @@
 ## Curso: Ciência de Dados e Inteligência Artificial - UFPB
 ## Professor: Yuri Malheiros
 
-Título do projeto: [None]
+Título do projeto: Identificando os segredos dos campeões das olimpíadas.
 
 Integrantes: 
 - Caio Lucas da Silva Chacon
