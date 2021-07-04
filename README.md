@@ -2,7 +2,7 @@
 ## Curso: Ciência de Dados e Inteligência Artificial - UFPB
 ## Professor: Yuri Malheiros
 
-Título do projeto: Uma visão geral das Olimpiadas 
+## Título do projeto: Uma visão geral das Olimpiadas 
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Olympic_rings_with_transparent_rims.svg/1280px-Olympic_rings_with_transparent_rims.svg.png)
 
