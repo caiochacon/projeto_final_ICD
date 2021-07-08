@@ -8,6 +8,13 @@
 
 Desde a Grécia antiga, as olimpíadas se consagraram como o auge dos eventos esportivos. No decorrer do tempo, diversas equipes e países se mostraram merecedores de medalhas e honras. Sendo assim, nosso objetivo é identificar os padrões que fizeram esses países campeões; existe algum segredo? algum corpo físico ideal? Procuraremos responder essas e outras perguntas na nossa análise, buscando identificar os principais motivos que fazem um país ser vencedor.
 
+Estrutura do repositório:
+
+    - Datasets      -> datasets/new_olympic
+    - Atividades    -> activities.ipynb
+    - Projeto final -> data_olympic_story.ipynb
+    - Dependências  -> requiriments.txt
+
 Integrantes:
 
     - Caio Lucas da Silva Chacon              | Matrícula: 20200025769
